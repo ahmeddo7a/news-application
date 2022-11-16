@@ -1,16 +1,8 @@
 # latestversion_news_app
 
-A new Flutter project.
+News Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://ibb.co/2NbYRyM"><img src="https://i.ibb.co/DpqgmtM/News-dark-mockup.png" alt="News-dark-mockup" border="0"></a>
+<a href="https://ibb.co/Qc13snY"><img src="https://i.ibb.co/mBMVQth/News-light-mockup.png" alt="News-light-mockup" border="0"></a>
+<a href="https://ibb.co/kqpp1fc"><img src="https://i.ibb.co/Yf66ZMj/search-news-mockup.png" alt="search-news-mockup" border="0"></a>
+<a href="https://ibb.co/0ttpsBd"><img src="https://i.ibb.co/Vmm0wHP/webapp-news-mockup.png" alt="webapp-news-mockup" border="0"></a>
